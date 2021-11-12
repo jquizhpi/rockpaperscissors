@@ -10,12 +10,12 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 #### Planning
 
-- [ ] Complete the project planning document
+- [x] Complete the project planning document
 
 #### GitHub Set-Up
 
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
-- [ ] Fork this repository to your Github account and import to a new workspace
+- [x] Fork this repository to your Github account and import to a new workspace
 - [ ] Link and commit your changes
 - [ ] Make your site live on GitHub Pages
 
